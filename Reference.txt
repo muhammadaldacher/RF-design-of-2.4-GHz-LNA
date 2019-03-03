@@ -1,0 +1,8 @@
+I have uploaded the references I used in my google drive:
+https://drive.google.com/open?id=1z0GCunthTxLVJKHgraMpmEwxAZmCO1vD 
+& These are incredible videos to understand how to use Smith Charts: 
+
+https://www.youtube.com/watch?v=hmqM8PnUkmo (Part1) 
+https://www.youtube.com/watch?v=YbZ9RBw7-js (Part2) 
+https://www.youtube.com/watch?v=9KlIgae0ad8 (Part3) 
+*In simulation, you use the Smith Chart in Cadence Virtuoso.
