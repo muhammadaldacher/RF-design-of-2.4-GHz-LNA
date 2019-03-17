@@ -9,10 +9,13 @@ This project is about building a high FOM 2.4 GHz LNA for Bluetooth Low-Energy (
 Check the report document for more details.
 
 ## References
-I have uploaded the references I used in my google drive:<br/>
+My project on google drive:<br/>
 https://drive.google.com/open?id=1z0GCunthTxLVJKHgraMpmEwxAZmCO1vD <br/>
+EE220 Lecture Notes:<br/>
+https://drive.google.com/drive/folders/1LRJQr3L3WVC-5L6g-kLb6wLOyk3gmfOt <br/>
 & These are incredible videos to understand how to use Smith Charts: <br/>   
 https://www.youtube.com/watch?v=hmqM8PnUkmo (Part1) <br/>
 https://www.youtube.com/watch?v=YbZ9RBw7-js (Part2) <br/>
 https://www.youtube.com/watch?v=9KlIgae0ad8 (Part3) <br/>
-*In simulation, you use the Smith Chart in Cadence Virtuoso.
+*In simulation, you use the Smith Chart in Cadence Virtuoso.<br/>
+
